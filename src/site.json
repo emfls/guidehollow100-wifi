@@ -1,0 +1,18 @@
+{
+  "title": "GuideHollow Wi-Fi",
+  "slug": "wifi",
+  "short": "Wi-Fi",
+  "hero": "Understand the connection before resetting it.",
+  "description": "Home Wi-Fi, router settings and networking troubleshooting.",
+  "accent": "#087f91",
+  "topics": [
+    "No internet",
+    "Weak signal",
+    "Router setup",
+    "Security",
+    "Device conflicts",
+    "DNS and DHCP"
+  ],
+  "url": "https://wifi.guidehollow.com/",
+  "launchReady": false
+}
