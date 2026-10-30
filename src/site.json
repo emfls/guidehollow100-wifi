@@ -1,18 +1,20 @@
 {
-  "title": "GuideHollow Wi-Fi",
+  "title": "GuideHollow",
   "slug": "wifi",
-  "short": "Wi-Fi",
-  "hero": "Understand the connection before resetting it.",
-  "description": "Home Wi-Fi, router settings and networking troubleshooting.",
+  "short": "와이파이",
+  "hero": "와이파이가 끊기거나 느릴 때, 원인을 순서대로 확인하세요.",
+  "description": "무선 인터넷 연결 오류, 신호 문제, 공유기 설정, 보안 및 DNS를 쉽게 설명합니다.",
   "accent": "#087f91",
   "topics": [
-    "No internet",
-    "Weak signal",
-    "Router setup",
-    "Security",
-    "Device conflicts",
-    "DNS and DHCP"
+    "인터넷 연결 안 됨",
+    "와이파이 신호·속도",
+    "공유기 설정",
+    "무선 보안·암호",
+    "기기 연결 충돌",
+    "IP·DNS 문제"
   ],
   "url": "https://wifi.guidehollow.com/",
-  "launchReady": false
+  "launchReady": false,
+  "section": "와이파이·인터넷 연결",
+  "pageTitle": "와이파이·공유기 문제 해결 가이드 | GuideHollow"
 }
