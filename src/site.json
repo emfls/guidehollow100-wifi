@@ -14,7 +14,8 @@
     "IP·DNS 문제"
   ],
   "url": "https://wifi.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "section": "와이파이·인터넷 연결",
-  "pageTitle": "와이파이·공유기 문제 해결 가이드 | GuideHollow"
+  "pageTitle": "와이파이·공유기 문제 해결 가이드 | GuideHollow",
+  "adsReady": false
 }
