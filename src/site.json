@@ -2,8 +2,8 @@
   "title": "GuideHollow",
   "slug": "wifi",
   "short": "와이파이",
-  "hero": "와이파이가 끊기거나 느릴 때, 원인을 순서대로 확인하세요.",
-  "description": "무선 인터넷 연결 오류, 신호 문제, 공유기 설정, 보안 및 DNS를 쉽게 설명합니다.",
+  "hero": "파일 다운로드 예상 시간",
+  "description": "십진 MB와 Mbps를 사용합니다. 1바이트=8비트이며 실제 시간은 환경에 따라 달라집니다.",
   "accent": "#087f91",
   "topics": [
     "인터넷 연결 안 됨",
@@ -16,7 +16,8 @@
   "url": "https://wifi.guidehollow.com/",
   "launchReady": true,
   "section": "와이파이·인터넷 연결",
-  "pageTitle": "와이파이·공유기 문제 해결 가이드 | GuideHollow",
+  "pageTitle": "파일 다운로드 예상 시간 | GuideHollow",
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
